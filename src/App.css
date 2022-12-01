@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.App {
+  /* background-color: rgba(244, 244, 244, 1); */
+  background-color: rgb(246, 246, 246);
+}
+
+
